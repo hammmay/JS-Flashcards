@@ -2,11 +2,11 @@
   display: none;
 }
 
-.clickable {
+.card {
   cursor: pointer;
   color: #0088cc;
 }
 
-.clickable:hover {
+.card:hover {
   text-decoration: underline;
 }
